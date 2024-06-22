@@ -1,0 +1,10 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "quotes": ["warn", "double"],
+    "semi": ["warn", "never"],
+    "eol-last": ["error", "always"],
+    "indent": ["error", 2],
+    "prefer-const": "error"
+  }
+}
